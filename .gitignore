@@ -1,0 +1,15 @@
+*.xcworkspace
+
+*.pbxuser
+
+*.perspectivev3
+
+xcschememanagement.plist
+
+*.xcscheme
+
+Breakpoints.xcbkptlist
+
+xcschemes
+
+*.xcuserdatad
